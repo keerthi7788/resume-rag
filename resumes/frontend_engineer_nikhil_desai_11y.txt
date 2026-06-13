@@ -1,0 +1,21 @@
+Nikhil Desai
+nikhil.desai@email.com | +91 9811 4483 6361
+
+Skills
+React, Angular, TypeScript, Micro-frontends, Node.js, CI/CD
+
+Experience
+Lead Frontend Engineer | HealthBridge | Jan 2017 - Present
+- Led frontend guild and micro-frontend migration.
+
+Senior UI Engineer | GameForge | May 2014 - Dec 2016
+- Shipped real-time multiplayer lobby interfaces.
+
+Education
+M.S. Human-Computer Interaction, Georgia Tech, 2014
+
+Projects
+Patient Portal - HIPAA-aware React SPA with role-based views.
+
+Certifications
+Certified Accessibility Specialist (CPACC)

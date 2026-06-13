@@ -1,0 +1,21 @@
+Harish Pillai
+harish.pillai@email.com | +91 9808 5889 9189
+
+Skills
+Python, R, SQL, Machine Learning, Time Series, AWS, Snowflake
+
+Experience
+Senior Data Scientist | LogiChain | May 2018 - Present
+- Forecasted demand for 200+ SKUs with 8% MAPE improvement.
+
+Data Scientist | AgriSense | Aug 2016 - Apr 2018
+- Built crop yield prediction models from satellite data.
+
+Education
+M.Tech Data Science, IIIT Bangalore, 2016
+
+Projects
+Supply Forecast Dashboard - Prophet and XGBoost ensemble pipeline.
+
+Certifications
+AWS Certified Machine Learning - Specialty

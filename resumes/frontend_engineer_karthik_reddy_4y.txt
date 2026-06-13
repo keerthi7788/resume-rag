@@ -1,0 +1,21 @@
+Karthik Reddy
+karthik.reddy@email.com | +91 9804 1208 1785
+
+Skills
+React, Next.js, TypeScript, Redux, Jest, Figma
+
+Experience
+Frontend Engineer | MarketHive | Oct 2022 - Present
+- Developed seller portal used by 15k merchants.
+
+UI Developer | BrightApps | Jun 2021 - Sep 2022
+- Converted design systems into accessible components.
+
+Education
+B.Tech Computer Science, SRM University, 2021
+
+Projects
+E-commerce Storefront - Next.js SSR with Stripe checkout.
+
+Certifications
+Meta Front-End Developer Professional Certificate

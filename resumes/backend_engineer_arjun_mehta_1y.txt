@@ -1,0 +1,18 @@
+Arjun Mehta
+arjun.mehta@email.com | +91 9801 3447 7486
+
+Skills
+Python, Django, REST APIs, PostgreSQL, Git
+
+Experience
+Junior Backend Developer | NovaStack | Jul 2024 - Present
+- Built REST endpoints and unit tests for billing service.
+
+Education
+B.Tech Information Technology, VIT Vellore, 2024
+
+Projects
+Campus Food Ordering API - Django REST service with JWT auth.
+
+Certifications
+Python Institute PCEP

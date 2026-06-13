@@ -1,0 +1,21 @@
+Shreya Dutta
+shreya.dutta@email.com | +91 9807 3319 6292
+
+Skills
+Playwright, Java, REST Assured, Jenkins, Test Strategy, Agile
+
+Experience
+Senior QA Engineer | TravelGo | Jul 2019 - Present
+- Led QA for booking and payments squads.
+
+Automation Engineer | ShopEase | May 2017 - Jun 2019
+- Automated checkout and refund workflows.
+
+Education
+B.E. Computer Science, Jadavpur University, 2017
+
+Projects
+Visual Regression Tests - Playwright snapshots for design QA.
+
+Certifications
+Certified Scrum Master (CSM)

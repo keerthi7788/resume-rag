@@ -1,0 +1,21 @@
+Tanvi Shah
+tanvi.shah@email.com | +91 9809 8264 1794
+
+Skills
+Python, PyTorch, MLOps, Airflow, Docker, AWS, System Design
+
+Experience
+Staff ML Engineer | FinML Corp | Mar 2018 - Present
+- Built feature platform used by 8 model teams.
+
+ML Engineer | VoiceNet | Jun 2016 - Feb 2018
+- Deployed speech-to-text models for IVR systems.
+
+Education
+M.S. Machine Learning, Carnegie Mellon University, 2016
+
+Projects
+Feature Store - Feast-based pipeline with online/offline serving.
+
+Certifications
+AWS Certified Solutions Architect - Associate

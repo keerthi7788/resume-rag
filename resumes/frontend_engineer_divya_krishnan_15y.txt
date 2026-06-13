@@ -1,0 +1,21 @@
+Divya Krishnan
+divya.krishnan@email.com | +91 9815 0561 0662
+
+Skills
+JavaScript, React, TypeScript, Web Performance, Architecture, Mentoring
+
+Experience
+Principal Frontend Engineer | GlobalCart | Apr 2015 - Present
+- Set frontend architecture for 50M MAU platform.
+
+Senior Developer | MediaWave | Jun 2010 - Mar 2015
+- Built video streaming player and analytics UI.
+
+Education
+B.Tech Computer Science, Anna University, 2010
+
+Projects
+Universal Shell - module federation host for 12 product teams.
+
+Certifications
+Google Mobile Web Specialist

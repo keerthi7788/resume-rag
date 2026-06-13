@@ -1,0 +1,21 @@
+Rohan Kapoor
+rohan.kapoor@email.com | +91 9806 4450 5077
+
+Skills
+Python, FastAPI, PostgreSQL, AWS, Celery, GraphQL
+
+Experience
+Senior Backend Engineer | CloudRoute | Jan 2021 - Present
+- Led API platform serving 40+ internal teams.
+
+Software Engineer | DataPulse | Aug 2018 - Dec 2020
+- Built analytics ingestion pipelines in Python.
+
+Education
+B.Tech Computer Science, IIT Roorkee, 2018
+
+Projects
+Inventory Optimizer - real-time stock API with FastAPI and Redis.
+
+Certifications
+AWS Certified Developer - Associate

@@ -1,0 +1,18 @@
+Ananya Sharma
+ananya.sharma@email.com | +91 9802 6107 3364
+
+Skills
+JavaScript, React, TypeScript, HTML, CSS, Tailwind CSS
+
+Experience
+Frontend Developer | PixelCraft | Aug 2023 - Present
+- Implemented responsive dashboards for SaaS clients.
+
+Intern | Webloom | Jan 2023 - Jul 2023
+- Built reusable React component library.
+
+Education
+B.Sc. Computer Science, Christ University, 2023
+
+Projects
+Habit Tracker UI - React app with local storage persistence.

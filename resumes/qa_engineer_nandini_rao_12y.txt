@@ -1,0 +1,21 @@
+Nandini Rao
+nandini.rao@email.com | +91 9812 3956 8040
+
+Skills
+Quality Engineering, Playwright, CI/CD, Test Strategy, Mentoring, Risk Analysis
+
+Experience
+Principal QA Engineer | BankSecure | Feb 2015 - Present
+- Established org-wide test automation standards.
+
+Senior QA | InsureFlow | Aug 2012 - Jan 2015
+- Led UAT for policy administration system.
+
+Education
+B.Tech Electronics and Communication, RV College of Engineering, 2012
+
+Projects
+Shift-left Testing Program - developer-owned contract tests in CI.
+
+Certifications
+ISTQB Expert Level, Certified Agile Leadership

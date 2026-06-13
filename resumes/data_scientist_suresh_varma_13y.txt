@@ -1,0 +1,21 @@
+Suresh Varma
+suresh.varma@email.com | +91 9813 3499 1384
+
+Skills
+Python, Spark, Bayesian Methods, NLP, Data Strategy, Stakeholder Management
+
+Experience
+Principal Data Scientist | InsureTech Pro | Mar 2014 - Present
+- Led pricing science team across life and health products.
+
+Senior Scientist | TelAnalytics | Jul 2011 - Feb 2014
+- Built network fault prediction models.
+
+Education
+M.S. Data Science, Columbia University, 2011
+
+Projects
+Claims Triage Model - NLP classification of insurance requests.
+
+Certifications
+Databricks Certified Machine Learning Professional

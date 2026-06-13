@@ -1,0 +1,21 @@
+Deepa Nambiar
+deepa.nambiar@email.com | +91 9806 5825 8124
+
+Skills
+Kubernetes, Terraform, AWS, Prometheus, Grafana, Helm
+
+Experience
+Senior DevOps Engineer | ScaleOps | Oct 2020 - Present
+- Reduced deployment time by 60% with pipeline redesign.
+
+DevOps Engineer | CloudNine | Jun 2018 - Sep 2020
+- Migrated on-prem workloads to AWS EKS.
+
+Education
+B.Tech Information Technology, NIT Surathkal, 2018
+
+Projects
+Observability Stack - Prometheus, Loki, and Grafana on EKS.
+
+Certifications
+AWS Certified DevOps Engineer - Professional

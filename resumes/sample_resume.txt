@@ -1,0 +1,18 @@
+Jane Doe
+jane.doe@email.com | +1 555-0100
+
+Skills
+Python, FastAPI, PostgreSQL, Docker, AWS, Machine Learning
+
+Experience
+Senior Software Engineer | Acme Corp | Jan 2020 - Present
+- Built scalable APIs and data pipelines.
+
+Software Engineer | Beta Labs | Jun 2016 - Dec 2019
+- Developed backend services in Python and Node.js.
+
+Education
+B.Tech Computer Science, State University, 2016
+
+Projects
+Resume RAG Search - semantic search over candidate resumes using embeddings.

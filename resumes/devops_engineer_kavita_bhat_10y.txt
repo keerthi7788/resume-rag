@@ -1,0 +1,21 @@
+Kavita Bhat
+kavita.bhat@email.com | +91 9810 4727 1627
+
+Skills
+Kubernetes, Istio, Terraform, AWS, GitOps, Cost Optimization
+
+Experience
+Staff DevOps Engineer | RetailGrid | May 2017 - Present
+- Standardized platform engineering practices globally.
+
+Senior SRE | StreamBox | Jul 2014 - Apr 2017
+- Built auto-scaling video delivery infrastructure.
+
+Education
+M.Tech Computer Networks, IIT Madras, 2014
+
+Projects
+Service Mesh Migration - Istio rollout with zero-downtime cutover.
+
+Certifications
+AWS Certified Solutions Architect - Professional, CKS

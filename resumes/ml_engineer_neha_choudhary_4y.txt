@@ -1,0 +1,21 @@
+Neha Choudhary
+neha.choudhary@email.com | +91 9804 1672 8372
+
+Skills
+Python, TensorFlow, PyTorch, MLflow, Kubernetes, AWS
+
+Experience
+ML Engineer | AutoDrive | Nov 2022 - Present
+- Deployed perception models to edge devices.
+
+Junior ML Engineer | RoboWorks | Aug 2021 - Oct 2022
+- Built data labeling and training pipelines.
+
+Education
+M.Tech Robotics, IIT Kanpur, 2021
+
+Projects
+Object Detection Pipeline - YOLOv8 training and ONNX export.
+
+Certifications
+AWS Certified Machine Learning - Specialty

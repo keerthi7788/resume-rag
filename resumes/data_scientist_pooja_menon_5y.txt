@@ -1,0 +1,21 @@
+Pooja Menon
+pooja.menon@email.com | +91 9805 3361 2880
+
+Skills
+Python, SQL, XGBoost, A/B Testing, Tableau, Spark
+
+Experience
+Data Scientist | BankNova | Feb 2021 - Present
+- Developed credit risk models with 12% default reduction.
+
+Analyst | Quantify | Jul 2019 - Jan 2021
+- Ran experiment analysis for growth product team.
+
+Education
+B.Tech Mathematics and Computing, IIT Delhi, 2019
+
+Projects
+Fraud Detection - gradient boosting classifier on transaction features.
+
+Certifications
+Google Data Analytics Professional Certificate

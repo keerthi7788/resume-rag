@@ -1,0 +1,18 @@
+Ishaan Gupta
+ishaan.gupta@email.com | +91 9801 4332 3752
+
+Skills
+Python, PyTorch, Scikit-learn, Docker, Git, Linux
+
+Experience
+ML Engineer Intern | Visionary AI | Jun 2024 - Present
+- Fine-tuned image classifiers for defect detection.
+
+Education
+B.Tech Artificial Intelligence, IIIT Hyderabad, 2024
+
+Projects
+Sentiment Classifier - BERT fine-tuning on product reviews.
+
+Certifications
+DeepLearning.AI TensorFlow Developer

@@ -1,0 +1,21 @@
+Varun Agarwal
+varun.agarwal@email.com | +91 9805 6559 2048
+
+Skills
+Selenium, Cypress, Python, API Testing, CI/CD, Performance Testing
+
+Experience
+QA Automation Engineer | EduSpark | Mar 2022 - Present
+- Built Cypress E2E suite covering 80% critical paths.
+
+QA Analyst | FormLogic | Aug 2019 - Feb 2022
+- Owned test planning for SaaS form builder.
+
+Education
+B.Tech Computer Science, Jaypee Institute, 2019
+
+Projects
+Load Testing Framework - k6 scripts integrated in GitHub Actions.
+
+Certifications
+ISTQB Advanced Test Automation Engineer

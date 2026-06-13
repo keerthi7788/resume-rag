@@ -1,0 +1,18 @@
+Aditya Banerjee
+aditya.banerjee@email.com | +91 9802 2060 2159
+
+Skills
+Python, Pandas, SQL, Scikit-learn, Matplotlib, Jupyter
+
+Experience
+Data Scientist | Insight Labs | Sep 2023 - Present
+- Built churn models for subscription business.
+
+Data Analyst Intern | RetailIQ | Jan 2023 - Aug 2023
+- Automated weekly sales reporting pipelines.
+
+Education
+M.Sc. Statistics, ISI Kolkata, 2023
+
+Projects
+Customer Segmentation - RFM clustering for e-commerce cohorts.

@@ -1,0 +1,21 @@
+Abhishek Roy
+abhishek.roy@email.com | +91 9811 5638 1370
+
+Skills
+Test Architecture, Selenium Grid, API Testing, Security Testing, Team Leadership
+
+Experience
+QA Lead | MediCore Systems | Oct 2016 - Present
+- Defined quality gates for FDA-regulated releases.
+
+Senior QA Engineer | FleetTrack | Jun 2014 - Sep 2016
+- Built automation for GPS fleet management platform.
+
+Education
+M.Tech Software Engineering, BITS Pilani, 2014
+
+Projects
+Compliance Test Harness - traceable test evidence for audits.
+
+Certifications
+ISTQB Expert Level Test Management

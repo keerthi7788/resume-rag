@@ -1,0 +1,21 @@
+Rahul Verma
+rahul.verma@email.com | +91 9807 3209 9542
+
+Skills
+Python, PyTorch, Kubeflow, Feature Stores, Ray, GCP
+
+Experience
+Senior ML Engineer | SearchPrime | Jan 2020 - Present
+- Productionized ranking models with sub-50ms latency.
+
+ML Engineer | ChatNest | Jul 2018 - Dec 2019
+- Implemented intent classification for support bot.
+
+Education
+B.Tech Computer Science, NIT Warangal, 2018
+
+Projects
+Real-time Ranking Service - TensorFlow Serving on GKE.
+
+Certifications
+Google Professional Machine Learning Engineer

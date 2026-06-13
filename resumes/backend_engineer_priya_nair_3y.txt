@@ -1,0 +1,21 @@
+Priya Nair
+priya.nair@email.com | +91 9803 0957 7578
+
+Skills
+Java, Spring Boot, MySQL, Redis, Kafka, Docker
+
+Experience
+Backend Engineer | FinEdge | Mar 2023 - Present
+- Designed payment microservices handling 2M daily transactions.
+
+Associate Engineer | CodeHarbor | Jun 2022 - Feb 2023
+- Maintained legacy monolith and migrated modules to Spring Boot.
+
+Education
+B.E. Computer Science, PES University, 2022
+
+Projects
+Ledger Sync - event-driven accounting reconciliation with Kafka.
+
+Certifications
+Oracle Certified Professional: Java SE 11 Developer

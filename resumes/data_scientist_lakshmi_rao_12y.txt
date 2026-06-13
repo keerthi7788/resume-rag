@@ -1,0 +1,18 @@
+Lakshmi Rao
+lakshmi.rao@email.com | +91 9812 3619 3857
+
+Skills
+Python, SQL, Causal Inference, Experimentation, ML Ops, Leadership
+
+Experience
+Lead Data Scientist | StreamFlix | Oct 2016 - Present
+- Owned recommendation experimentation framework.
+
+Data Scientist | AdMetrics | Jun 2013 - Sep 2016
+- Optimized ad bidding algorithms.
+
+Education
+Ph.D. Applied Statistics, University of Michigan, 2013
+
+Projects
+Uplift Modeling Framework - causal ML for marketing campaigns.

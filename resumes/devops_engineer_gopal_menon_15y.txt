@@ -1,0 +1,21 @@
+Gopal Menon
+gopal.menon@email.com | +91 9815 1912 3999
+
+Skills
+Cloud Architecture, Kubernetes, Terraform, Security, Leadership, FinOps
+
+Experience
+Director of Platform Engineering | MegaMart Online | Jan 2014 - Present
+- Built platform org supporting 300+ engineers.
+
+Principal SRE | TelcoCloud | Jun 2009 - Dec 2013
+- Designed national CDN and edge compute platform.
+
+Education
+B.E. Electronics and Telecommunication, Mumbai University, 2009
+
+Projects
+Internal Developer Platform - self-service environments with Backstage.
+
+Certifications
+CKA, CKS, AWS Certified Solutions Architect - Professional

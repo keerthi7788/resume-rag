@@ -1,0 +1,21 @@
+Ritu Malhotra
+ritu.malhotra@email.com | +91 9802 5982 2375
+
+Skills
+Manual Testing, Selenium, Java, Test Cases, JIRA, API Testing
+
+Experience
+QA Engineer | AppSure | Dec 2023 - Present
+- Executed regression suites for mobile banking app.
+
+QA Intern | SoftNest | Jun 2023 - Nov 2023
+- Logged defects and verified fixes across sprints.
+
+Education
+B.Sc. Computer Science, Delhi University, 2023
+
+Projects
+API Test Suite - Postman collections for checkout flows.
+
+Certifications
+ISTQB Foundation Level

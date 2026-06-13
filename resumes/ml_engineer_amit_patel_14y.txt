@@ -1,0 +1,21 @@
+Amit Patel
+amit.patel@email.com | +91 9814 2818 3951
+
+Skills
+Python, Distributed Training, LLMs, CUDA, Kubernetes, Technical Leadership
+
+Experience
+Principal ML Engineer | OpenScale AI | Feb 2015 - Present
+- Led LLM fine-tuning infrastructure for enterprise customers.
+
+Senior ML Engineer | Vision Systems | May 2011 - Jan 2015
+- Built GPU training clusters and model registry.
+
+Education
+Ph.D. Computer Science, Stanford University, 2011
+
+Projects
+Distributed Fine-tuning Platform - multi-node LoRA training orchestrator.
+
+Certifications
+NVIDIA DLI Certified Instructor

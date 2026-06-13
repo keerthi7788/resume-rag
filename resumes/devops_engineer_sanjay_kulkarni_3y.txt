@@ -1,0 +1,21 @@
+Sanjay Kulkarni
+sanjay.kulkarni@email.com | +91 9803 7264 0032
+
+Skills
+Linux, Docker, Kubernetes, Jenkins, Terraform, AWS
+
+Experience
+DevOps Engineer | ShipFast | Apr 2023 - Present
+- Managed CI/CD for 25 microservices.
+
+Systems Engineer | HostBridge | Jul 2022 - Mar 2023
+- Automated server provisioning with Ansible.
+
+Education
+B.E. Computer Engineering, Pune University, 2022
+
+Projects
+GitOps Deployment - Argo CD rollout for staging and production.
+
+Certifications
+CKA, AWS Certified SysOps Administrator

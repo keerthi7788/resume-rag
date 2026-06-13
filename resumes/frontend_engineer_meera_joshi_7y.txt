@@ -1,0 +1,18 @@
+Meera Joshi
+meera.joshi@email.com | +91 9807 4573 4761
+
+Skills
+React, Vue.js, TypeScript, Webpack, Performance Optimization, Accessibility
+
+Experience
+Senior Frontend Engineer | StreamLine | Mar 2020 - Present
+- Improved Core Web Vitals by 35% across product suite.
+
+Frontend Developer | AdSpark | Jul 2018 - Feb 2020
+- Built ad campaign management interfaces.
+
+Education
+B.E. Information Technology, COEP Pune, 2018
+
+Projects
+Design System Kit - cross-framework component tokens and docs.

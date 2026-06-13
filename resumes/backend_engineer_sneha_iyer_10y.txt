@@ -1,0 +1,21 @@
+Sneha Iyer
+sneha.iyer@email.com | +91 9810 7656 5018
+
+Skills
+Go, Python, Kubernetes, PostgreSQL, gRPC, AWS, System Design
+
+Experience
+Staff Backend Engineer | ShopVerse | May 2019 - Present
+- Architected order fulfillment platform across 3 regions.
+
+Senior Engineer | TravelMint | Jul 2015 - Apr 2019
+- Owned search and booking services at scale.
+
+Education
+M.Tech Software Systems, BITS Pilani, 2015
+
+Projects
+Rate Limiter Service - distributed token bucket in Go.
+
+Certifications
+AWS Certified Solutions Architect - Professional

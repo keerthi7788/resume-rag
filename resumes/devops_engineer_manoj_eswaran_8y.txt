@@ -1,0 +1,21 @@
+Manoj Eswaran
+manoj.eswaran@email.com | +91 9808 3337 2505
+
+Skills
+AWS, Azure, Kubernetes, Terraform, Python, Security, SRE
+
+Experience
+DevOps Lead | HealthCloud | Feb 2019 - Present
+- Owned HIPAA-compliant infrastructure and incident response.
+
+Site Reliability Engineer | PaySwift | Aug 2016 - Jan 2019
+- Achieved 99.95% uptime for payment APIs.
+
+Education
+B.Tech Computer Science, PSG College of Technology, 2016
+
+Projects
+Disaster Recovery Runbooks - automated failover for multi-AZ clusters.
+
+Certifications
+CKA, Azure Administrator Associate

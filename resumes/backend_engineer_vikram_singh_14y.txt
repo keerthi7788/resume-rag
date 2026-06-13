@@ -1,0 +1,21 @@
+Vikram Singh
+vikram.singh@email.com | +91 9814 1481 0753
+
+Skills
+Java, Scala, Kafka, Cassandra, AWS, Microservices, Team Leadership
+
+Experience
+Principal Engineer | PayGrid | Feb 2018 - Present
+- Defined platform standards for 120-engineer org.
+
+Senior Backend Engineer | TelcoSoft | Jun 2011 - Jan 2018
+- Built telecom billing and provisioning systems.
+
+Education
+B.Tech Electronics and Communication, NIT Trichy, 2011
+
+Projects
+Multi-tenant Billing Engine - high-throughput invoice generation.
+
+Certifications
+AWS Certified Solutions Architect - Professional, CKA
