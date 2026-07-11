@@ -112,48 +112,58 @@ SKIP_WORDS = {
 # Parse JD
 # ------------------------------------------------
 
-def parse_must_have_requirements(
-
-    jd: str
-
-) -> ParsedRequirements:
+def parse_must_have_requirements(jd: str) -> ParsedRequirements:
 
     parsed = ParsedRequirements()
 
     if not jd:
-
         return parsed
 
     lines = [
-
         x.strip()
-
         for x in jd.split("\n")
-
         if x.strip()
-
     ]
 
     parsed.raw_lines = lines
 
+    in_skills = False
+
     for line in lines:
+        print(f"LINE = '{line}'")
 
         lower = line.lower().strip()
 
-        # Ignore headers
+        # -------------------------
+        # Section Headers
+        # -------------------------
 
-        if lower in SKIP_WORDS:
-
+        if lower in (
+            "required skills",
+            "skills",
+            "skills:"
+        ):
+            print("in_skills =", in_skills, "line =", line)
+            in_skills = True
             continue
 
+        if lower.startswith("experience"):
+            in_skills = False
+
+        if lower.startswith("responsibilities"):
+            in_skills = False
+            continue
+
+        if lower in SKIP_WORDS:
+            continue
+
+        # -------------------------
         # Experience
+        # -------------------------
 
         match = re.search(
-
             r"(\d+)\s*\+?\s*years",
-
             lower
-
         )
 
         if match:
@@ -164,11 +174,7 @@ def parse_must_have_requirements(
 
                     requirement_type="experience",
 
-                    min_years=int(
-
-                        match.group(1)
-
-                    ),
+                    min_years=int(match.group(1)),
 
                     raw_text=line
 
@@ -178,30 +184,27 @@ def parse_must_have_requirements(
 
             continue
 
-        # Ignore section names like "Experience:"
+        # -------------------------
+        # Parse only skills section
+        # -------------------------
 
-        if lower.endswith(":"):
+        if in_skills:
 
-            continue
+            parsed.must_have.append(
 
-        # Skill
+                MustHaveRequirement(
 
-        parsed.must_have.append(
+                    requirement_type="skill",
 
-            MustHaveRequirement(
+                    keyword=line,
 
-                requirement_type="skill",
+                    raw_text=line
 
-                keyword=line,
-
-                raw_text=line
+                )
 
             )
 
-        )
-
     return parsed
-
 
 # ------------------------------------------------
 # Candidate filtering
@@ -315,10 +318,8 @@ def candidate_meets_requirements(
 
     return all_met, checks
 
-
-# ------------------------------------------------
 # Pretty print
-# ------------------------------------------------
+
 
 def format_requirement_checks(
 

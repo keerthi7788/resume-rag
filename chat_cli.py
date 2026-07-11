@@ -1,9 +1,12 @@
 from matching_agent import app
-import sys
 
-print("Paste JD and press Ctrl+D when done:\n")
+print("Paste Job Description and press Ctrl+D (Linux/Mac) or Ctrl+Z then Enter (Windows):\n")
 
-jd = sys.stdin.read()
+try:
+    while True:
+        jd = input() + "\n"
+except EOFError:
+    pass
 
 state = {
     "conversation_history": [],
@@ -17,5 +20,8 @@ state = {
 
 result = app.invoke(state)
 
-print("\n===== MATCH REPORT =====\n")
+print("\n==============================")
+print("MATCH REPORT")
+print("==============================\n")
+
 print(result["report"])
